@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dentavive.vercel.com/sitemap.xml
+Sitemap: https://dentavive.vercel.app/sitemap.xml
